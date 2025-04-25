@@ -6,8 +6,12 @@
 Steps to involve for implementing Circuit Breaker Pattern
 
 # 1. pom.xml add the dependencies
+                <dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-aop</artifactId>
+		</dependency>
 
-	<dependency>
+	        <dependency>
 			<groupId>io.github.resilience4j</groupId>
 			<artifactId>resilience4j-spring-boot3</artifactId>
 			<version>2.0.2</version>
