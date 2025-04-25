@@ -6,7 +6,7 @@
 Steps to involve for implementing Circuit Breaker Pattern
 
 # 1. pom.xml add the dependencies
-                <dependency>
+              <dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-aop</artifactId>
 		</dependency>
