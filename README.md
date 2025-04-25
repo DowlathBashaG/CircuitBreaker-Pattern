@@ -1,5 +1,8 @@
 # CircuitBreaker-Pattern
 
+![circuit](https://github.com/user-attachments/assets/71a664c7-d4ae-412e-b704-bf6208450429)
+
+
 Steps to involve for implementing Circuit Breaker Pattern
 
 # 1. pom.xml add the dependencies
